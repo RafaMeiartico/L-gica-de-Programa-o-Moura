@@ -1,0 +1,66 @@
+02 fazer café com filtro
+
+1-Entrar na cozinha
+2-ligar a luz
+3-abrir o armário
+4-pegar uma panela
+5-fechar o armário
+6-ir até a pia
+7-abrir a torneira
+8-colocar a panela embaixo da água caindo, até encher 300ml
+9-fechar a torneira
+10-colocar a panela do fogão
+11-ligar o fogão
+12-vá até o armário
+13-pegue o filtro de café
+14-pegue o pote de açúcar
+15-pegue o pote de café
+16-pegue o coador
+17-feche o armário
+18-abra a gaveta
+19-pegue a colher de sopa
+20-feche a gaveta
+21-se dirija até a pia
+22-pegue a garrafa térmica
+23-coloque o coador encima da garrafa térmica
+24-coloque o filtro de papel no coador, de forma que fique aberto
+25-pegue o pote de café
+26-abra o pote de café
+27-pegue a colher de sopa
+28-com a colher de sopa, pegue o pó de café
+29-coloque na filtro de papel 
+30-se houver necessidade, coloque mais uma colher de sopa com o pó de café 
+31-coloque a colher de sopa na pia
+32-feche o pote de café
+33-pegue o pote de açúcar
+34-abra o pote de açúcar
+35-coloque a quantidade de açúcar conforme seu gosto junto com o café
+36-vá ao fogão
+37-verifique se a água está fervendo, se sim, desligue o fogão
+38-caso o contrário, espere até ferver
+39-Pegue a panela do fogão
+40-vá até o filtro com o café e açúcar 
+41-despeje o conteúdo da panela, tomando cuidado para não transbordar
+42-espere que a água seja toda coada
+43-retire o coador com o filtro da panela térmica
+44-Feche a garrafa térmica 
+45-retire o filtro sujo do coador
+46-vá até o lixo
+47-abra o lixo
+48-jogue fora o filtro sujo
+49-feche o lixo
+50-volte para a cozinha
+51-pegue o filtro de café
+52-pegue o pote de açúcar
+53-pegue o pote de café
+54-vá até o armário
+55-guarde
+56-pegue o coador
+57-pegue a panela
+58-coloque na pia para lavar
+59-vá ao armário
+60-pegue uma xícara
+61-coloque na pia
+62-abra a tampa da garrafa térmica 
+63-despeje o necessário para encher um pouco mais da metade da xícara
+64-beba

@@ -1,0 +1,32 @@
+03 para trocar um pneu de um carro
+
+1-estacione o carro em um local plano
+2-puxe o freio de mão
+3-retire a chave da ignição
+4-abra a porta do carro
+5-saia do carro
+6-identifique a roda que precisa ser trocada
+7-vá até o porta malas do carro
+8-abra o porta malas do carro
+9-retire tudo o que tem no porta malas
+10-retire o forro do porta malas
+11-pegue a chave de roda
+12-pegue o macaco
+13-pegue o step
+14-agache em frente a roda que precisa ser trocada
+15-deixe as ferramentas e o step ao seu lado
+16-posicione o macaco em baixo do carro, no local de encaixe do mesmo, onde cada carro tem o seu
+17-gire a alavanca do macaco até o máximo
+18-pegue a chave de roda
+19-desrosqueie todos os parafusos da roda, em sentido anti-horário
+20-substitua o pneu furado pelo step
+21-aperte os parafusos do novo pneu, no sentido horário
+22-gire a alavanca do macaco, do sentido contrário do que você o ergueu 
+23-aperte os pneus novamente, porém desta vez, com força máxima
+24-Levante-se
+25-pegue o pneu furado e o macaco
+26-vá até o porta malas
+27-coloque os objetos no mesmo local que estava os anteriores
+28-coloque o forro
+29-feche o porta malas
+30-entre no carro

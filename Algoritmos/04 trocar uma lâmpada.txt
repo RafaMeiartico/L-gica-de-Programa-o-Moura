@@ -1,0 +1,20 @@
+04 trocar uma lâmpada
+
+01-identifique a luz que precisa ser trocada
+02-pegue uma lâmpada nova
+03-pegue uma escada
+04-apague a luz do local que a luz precisa ser trocada
+05-posicione a escada abaixo da lâmpada
+06-suba os degraus da escada, de forma que não fique muito alto, e nem muito baixo
+07-desrosqueie a lâmpada com defeito
+08-coloque-a no topo da escada, de uma forma que ela não caia
+09-abra a nova lâmpada
+10-retire-a da caixa
+11-rosqueie no local que a outra lâmpada foi retirada
+12-pegue a lâmpada antiga
+13-desça os degraus da escada
+14-guarde a escada
+15-ache uma caixa de papelão
+16-encha de jornal/papel para reciclagem
+17-coloque a lâmpada
+18-bote no lixo reciclável

@@ -1,0 +1,18 @@
+05 tomar banho
+
+1-entre no banheiro
+2-acenda a luz
+3-feche a porta
+4-retire as roupas
+5-identifique quais são para lavar
+6-separe-as das roupas limpas
+7-pegue as roupas sujas 
+8-bote-as para lavar
+9-abra o box
+10-fique na área embaixo do chuveiro
+11-abra o chuveiro
+12-molhe seu corpo
+13-pegue a bucha de banho
+14-pegue o sabonete líquido
+15-coloque um pouco de sabonete líquido na bucha de banho
+16-
