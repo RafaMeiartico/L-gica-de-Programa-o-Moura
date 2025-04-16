@@ -1,0 +1,22 @@
+08 sair do finalizar o ambiente antes de sair do SENAI
+
+1-sair do perfil no computador
+2-desigar a máquina
+3-desconectar os cabos
+4-pegar o pano
+5-colocar o álcool 
+6-limpar a máquina
+7-fechar a máquina
+8-limpar o mouse
+9-guardar o pano 
+10-guardar o álcool
+11-ir para a cabine com o computador
+12-guardar a máquina na cabine
+13-ir para a mesa
+14-pegar o mouse
+15-guardar o mouse
+16-arrumar os cabos
+17-verificar se tem papel ou lixo no chão
+18-arrumar a cadeira
+19-pegar os meus pertences
+20-sair da sala
