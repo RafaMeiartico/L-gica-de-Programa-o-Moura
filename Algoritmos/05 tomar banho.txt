@@ -15,4 +15,14 @@
 13-pegue a bucha de banho
 14-pegue o sabonete líquido
 15-coloque um pouco de sabonete líquido na bucha de banho
-16-
+16-com a bucha com sabão, esfregue pelo seu corpo
+17-entre na água que sai do chuveiro
+18-desligue o chuveiro
+19-pegue a toalha
+20-se seque
+21-abra o box
+22-saia do box
+23-vá para a porta do banheiro
+24-abra a porta
+25-apague a luz
+26-saia

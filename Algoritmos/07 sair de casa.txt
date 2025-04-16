@@ -1,0 +1,26 @@
+sair de casa 
+
+1-Vá até o chaveiro, pegue suas chaves 
+2-coloque suas chaves no bolso
+3-vá até seu quarto
+4-ligue a luz
+5-pegue seu celular
+6-vá até o armário
+7-pegue sua bolsa
+8-coloque seu celular
+9-coloque suas chaves no bolso da frente
+10-feche o armário
+11-vá até a cabeceira da cama
+12-pegue a carteira
+13-verifique se nela há tudo (dinheiro físico, cartões e identidade)
+14-após verificar, coloque na sua bolsa
+15-vá até a porta do quarto 
+16-desligue a luz
+17-desça as escadas
+18-verifique se as janelas da casa estão trancadas
+19-se não, tranque-as
+20-vá para a porta de casa
+21-abra a mochila
+22-pegue a chave
+23-feche a mochila
+24-tranque a porta

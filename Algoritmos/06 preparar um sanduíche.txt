@@ -1,0 +1,35 @@
+preparar um sanduíche
+
+1-vá para a cozinha
+2-vá até a geladeira
+3-abra a geladeira
+4-pegue o requeijão 
+5-pegue o queijo
+6-pegue o presunto 
+7-pegue o tomate
+8-feche a geladeira
+9-vá até a pia
+10-coloque os itens na copa da pia
+11-vá até a torneira
+12-abra a torneira
+13-lave o tomate
+14-feche a torneira
+15-pegue a tabua 
+16-abra a gaveta
+17-pegue a faca
+18-pegue o saco de pão
+19-feche a gaveta
+20-coloque a tabua na copa da pia
+21-pegue a faca
+22-coloque o tomate na tabua
+23-corte o tomate em rodelas
+24-pegue duas unidades de pão no saco
+25-posicione na copa da pia
+26-com a faca, passe requeijão nas duas unidades de pão
+27-coloque duas rodelas de tomate em uma das unidades de pão
+28-na mesma, coloque  presunto
+29-coloque o queijo
+30-coloque a outra fatia de pão por cima
+31-coloque a faca na pia
+32-coloque a tabua na pia
+33-guarde o restante em seus lugares
